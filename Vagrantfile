@@ -71,5 +71,6 @@ Vagrant.configure("2") do |config|
     apt-get install -y mysql-client
     apt-get install -y ruby2.3
     apt-get install -y ruby2.3-dev
+    apt-get install -y ruby-bundler
   SHELL
 end
