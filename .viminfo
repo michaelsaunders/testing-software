@@ -19,34 +19,158 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+"1	LINE	0
+	  :database => "enterprise-thought-leaders"
+"2	LINE	0
+	  :password => "michael31",
+"3	LINE	0
+	  :username => "root",
+"4	LINE	0
+	  t     => "10.0.4.211",
+""-	CHAR	0
+	u
 
 # File marks:
-'0  1  0  ~/.git/config
-'1  19  0  ~/addcert.rb
-'2  11  18  ~/addFoundationsGraduate.html
+'0  7  12  ~/Gemfile
+'1  7  0  ~/addcert.rb
+'2  6  0  ~/Gemfile
+'3  6  0  ~/addcert.rb
+'4  24  0  ~/addcert.rb
+'5  12  37  ~/welcome.html
+'6  23  18  ~/addcert.rb
+'7  1  0  ~/Gemfile
+'8  1  0  ~/.git/config
+'9  17  0  ~/addcert.rb
 
 # Jumplist (newest first):
+-'  7  12  ~/Gemfile
+-'  1  0  ~/Gemfile
+-'  7  0  ~/addcert.rb
+-'  1  0  ~/addcert.rb
+-'  6  0  ~/Gemfile
+-'  6  0  ~/addcert.rb
+-'  24  0  ~/addcert.rb
+-'  12  37  ~/welcome.html
+-'  1  0  ~/welcome.html
+-'  23  18  ~/addcert.rb
 -'  1  0  ~/.git/config
--'  19  0  ~/addcert.rb
+-'  17  0  ~/addcert.rb
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  1  0  ~/.git/config
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  1  0  ~/.git/config
+-'  20  0  ~/addcert.rb
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  1  0  ~/.git/config
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  1  0  ~/.git/config
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  1  0  ~/.git/config
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  1  0  ~/.git/config
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  1  0  ~/.git/config
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  12  37  ~/welcome.html
+-'  1  0  ~/welcome.html
+-'  1  0  ~/.git/config
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  11  18  ~/addFoundationsGraduate.html
+-'  1  0  ~/addFoundationsGraduate.html
+-'  12  37  ~/welcome.html
+-'  1  0  ~/welcome.html
+-'  22  18  ~/addcert.rb
+-'  7  0  ~/addcert.rb
 -'  1  0  ~/addcert.rb
--'  11  18  ~/addFoundationsGraduate.html
--'  1  0  ~/addFoundationsGraduate.html
--'  11  18  ~/addFoundationsGraduate.html
--'  1  0  ~/addFoundationsGraduate.html
--'  19  0  ~/addcert.rb
--'  1  0  ~/addcert.rb
--'  11  18  ~/addFoundationsGraduate.html
--'  1  0  ~/addFoundationsGraduate.html
--'  11  18  ~/addFoundationsGraduate.html
--'  1  0  ~/addFoundationsGraduate.html
 
 # History of marks within files (newest to oldest):
 
-> ~/.git/config
-	"	1	0
+> ~/Gemfile
+	"	7	12
+	^	7	13
+	.	7	12
+	+	7	12
 
 > ~/addcert.rb
-	"	19	0
+	"	7	0
+	^	6	0
+	.	5	26
+	+	12	22
+	+	13	28
+	+	23	18
+	+	5	26
+
+> ~/welcome.html
+	"	12	37
+	^	12	38
+	.	12	37
+	+	15	7
+	+	6	6
+	+	4	68
+	+	6	6
+	+	9	5
+	+	8	26
+	+	12	37
+
+> ~/.git/config
+	"	1	0
 
 > ~/addFoundationsGraduate.html
 	"	11	18

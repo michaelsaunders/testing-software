@@ -2,17 +2,15 @@ require 'sinatra'
 require "sinatra/json"
 require 'active_record'
 require 'json'
+require "sinatra/reloader"
 
 set :bind, '0.0.0.0'
 set :server, 'webrick'
 set :port, 80
 
 ActiveRecord::Base.establish_connection(
-  :adapter  => "mysql2",
-  :host     => "10.0.4.211",
-  :username => "root",
-  :password => "michael31",
-  :database => "enterprise-thought-leaders"
+  :adapter  => "sqlite3",
+  :database => "questions.db"
 )
 
 class Foundations < ActiveRecord::Base
@@ -22,7 +20,7 @@ class App < Sinatra::Application
 end
 
 get '/' do
-	File.read('mainMenu.html')
+	File.read('welcome.html')
 end
 
 get '/addFoundationsGraduate' do
