@@ -1,0 +1,26 @@
+<html>
+<body>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+
+<form action=/addFoundationsCertificate method=get>
+	<h1>Add Foundations Graduate</h1><br>
+	First Name <input type=text name='Firstname'><br>
+	Last Name <input type=text name='Lastname'><br>
+	Email Address <input type=text name='EmailAddress' size='100'><br>
+	Date Certified (yyyy-mm-ddd) <input type=text id='datePicker' name='DateCertified'><br>
+<input type=submit>
+
+</form>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    var now = new Date();
+    var today = now.getFullYear() + '-' + (now.getMonth() + 1) + '-' + now.getDate();
+    $('#datePicker').val(today);
+
+});
+</script>
+
+
+</body>
+</html>
